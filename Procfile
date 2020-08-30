@@ -1,1 +1,1 @@
-web: gunicorn app:solver_gui
+web: gunicorn app:app
