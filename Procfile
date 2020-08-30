@@ -1,0 +1,1 @@
+web: gunicorn app:solver_gui
